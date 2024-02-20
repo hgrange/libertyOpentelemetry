@@ -1,0 +1,12 @@
+inventory/target/
+inventory/.metadata/
+inventory/.settings/
+inventory/.classpath
+inventory/.project
+system/target/
+system/.metadata/
+system/.settings/
+system/.classpath
+system/.project
+initGit.cmd
+

@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\data\workspaces\libertyOpentelemetry\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1858608853.index
+\DefaultWebApplication\src\main\java

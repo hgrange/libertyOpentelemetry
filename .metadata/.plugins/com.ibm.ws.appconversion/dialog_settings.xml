@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.ibm.ws.appconversion.common.ruleset.RuleSetDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="210"/>
+		<item key="DIALOG_Y_ORIGIN" value="418"/>
+		<item key="SOURCE_AS_WAS_SELECTION" value="WebSphere Application Server version 7.0"/>
+		<item key="TARGET_AS_WAS_SELECTION" value="Liberty Core"/>
+		<item key="TARGET_JAVA_SELECTION" value="IBM Java 8"/>
+		<item key="SOURCE_JAVA_SELECTION" value="IBM Java 6"/>
+		<item key="SOURCE_JAVAEE_SELECTION" value="Aucun(e)"/>
+		<item key="TARGET_JAVAEE_SELECTION" value="Java EE 8"/>
+		<item key="TARGET_CLOUD_SELECTION" value="Aucun(e)"/>
+		<item key="JMS" value="false"/>
+		<item key="BeanValidation" value="true"/>
+		<item key="EL" value="true"/>
+		<item key="CDI" value="true"/>
+		<item key="Servlet" value="true"/>
+		<item key="JPA" value="true"/>
+		<item key="JSF" value="true"/>
+		<item key="JAX-RS" value="true"/>
+	</section>
+</section>

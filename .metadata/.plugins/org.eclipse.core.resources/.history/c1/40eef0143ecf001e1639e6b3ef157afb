@@ -1,0 +1,3 @@
+otel.sdk.disabled=false
+otel.traces.exporter=otlp
+otel.exporter.otlp.endpoint=http://localhost:4317/
